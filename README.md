@@ -8,6 +8,9 @@ This is the back-end portion of the site and created using Node js and express.
 The database used is postgresSQL.  
 [Here is a live demo!](https://smart-brain-omri.herokuapp.com/)
 
+## Where is the front end?
+[Front end repository](https://github.com/OmriGalShen/smart-brain)
+
 ## What is the porpuse of this program?
 This site was created in order for me to learn React, using api, Node.js, express and more.
 
